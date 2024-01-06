@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6RMO8Yf908dWfa6xp3B/cOLwp79i0lqqFS713z+jELw=",
+  "Hash": "BhFDBzyw9MifXapnV/EaxEZVi936ais4lMUo5gLVyzk=",
   "Source": "SchoolManagementApp.MVC",
   "BasePath": "_content/SchoolManagementApp.MVC",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Dotnet project\\SchoolManagementApp.MVC\\wwwroot\\images\\books.jpg",
+      "SourceId": "SchoolManagementApp.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dotnet project\\SchoolManagementApp.MVC\\wwwroot\\",
+      "BasePath": "_content/SchoolManagementApp.MVC",
+      "RelativePath": "images/books.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\books.jpg"
     },
     {
       "Identity": "C:\\Dotnet project\\SchoolManagementApp.MVC\\wwwroot\\js\\site.js",

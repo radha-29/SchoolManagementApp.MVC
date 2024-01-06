@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Dotnet project\\SchoolManagementApp.MVC\\wwwroot\\images\\books.jpg",
+      "PackagePath": "staticwebassets\\images\\books.jpg"
+    },
+    {
       "Id": "C:\\Dotnet project\\SchoolManagementApp.MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

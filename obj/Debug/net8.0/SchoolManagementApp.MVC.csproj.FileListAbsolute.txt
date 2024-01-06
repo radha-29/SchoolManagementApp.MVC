@@ -28,3 +28,4 @@ C:\Dotnet project\SchoolManagementApp.MVC\obj\Debug\net8.0\refint\SchoolManageme
 C:\Dotnet project\SchoolManagementApp.MVC\obj\Debug\net8.0\SchoolManagementApp.MVC.pdb
 C:\Dotnet project\SchoolManagementApp.MVC\obj\Debug\net8.0\SchoolManagementApp.MVC.genruntimeconfig.cache
 C:\Dotnet project\SchoolManagementApp.MVC\obj\Debug\net8.0\ref\SchoolManagementApp.MVC.dll
+C:\Dotnet project\SchoolManagementApp.MVC\obj\Debug\net8.0\SchoolManagementApp.MVC.sourcelink.json
